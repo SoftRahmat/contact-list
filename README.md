@@ -10,6 +10,14 @@
 <p>The features include listing all contacts alphabetically or not, adding, editing and deleting contacts from the list. You can save your contact's name, email, phone and also a photo.</p>
 
 
+## :pushpin: Packages
+
+  cupertino_icons: ^0.1.2
+  sqflite: ^1.1.5
+  url_launcher: ^5.0.2
+  image_picker: ^0.6.0+3
+  flutter_app_name: ^0.1.1
+  flutter_launcher_icons: "^0.9.2"
 
 ## :pushpin: Installation
 
