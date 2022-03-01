@@ -12,17 +12,17 @@
 
 ## :pushpin: Packages
 
-  cupertino_icons: ^0.1.2,
+  cupertino_icons: ^0.1.2
 
-  sqflite: ^1.1.5,
+  sqflite: ^1.1.5
 
-  url_launcher: ^5.0.2,
+  url_launcher: ^5.0.2
 
-  image_picker: ^0.6.0+3,
+  image_picker: ^0.6.0+3
 
-  flutter_app_name: ^0.1.1,
+  flutter_app_name: ^0.1.1
 
-  flutter_launcher_icons: "^0.9.2",
+  flutter_launcher_icons: "^0.9.2"
 
 ## :pushpin: Installation
 
